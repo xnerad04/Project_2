@@ -1,7 +1,7 @@
 # Project - Servo motors
 Application of joy-stick and two servo motors. 
 
-Our application consists of two servo motors and joy-stick. Joy-stick determines, which direction motors are rotating. 
+Our application consists of two servo motors and joy-stick. Joy-stick determines, which direction motors are rotating. When pushing to the left side in direction of x-axis, servo is rotating counter-clockwise, when pushing to the right, servo is rotating clockwise. By pushing the joy-stick button, you can change which of the two servo motors is controlled. 
 
 ### Team members
 
@@ -43,12 +43,6 @@ PROJECT_2
   - gpio
     - [gpio.c](...)
     - [gpio.h](...)
-  - uart
-    - [uart.c](...)
-    - [uart.h](...)
-  - adc
-    - [adc.c](...)
-    - [adc.h](...)
 
 - src           
   - [main.c](...)
