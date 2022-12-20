@@ -51,7 +51,7 @@ PROJECT_2
 - README.md       
 ---------------------------------------------------------------
 
-## Video
+## Simulation
 ![Simulation in SimulIde](https://github.com/xnerad04/Project_2/blob/main/Simulation.gif)
 
 ## References
