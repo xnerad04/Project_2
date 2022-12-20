@@ -10,8 +10,11 @@ Our application consists of two servo motors and joy-stick. Joy-stick determines
 
 ## Hardware description
 ### Servo motors
-
 ![2567_plastove-micro-servo-sg90-9g--kontinualni](https://user-images.githubusercontent.com/99417291/208713518-54b4f144-c576-4ae3-a44d-02fd31184724.jpg)
+
+* brown PIN: ground (GND)
+* red PIN: power supply (5V)
+* orange/yellow PIN: PWM signal
 
 ### Joystick HW-504
 ![HW-504](https://user-images.githubusercontent.com/99417291/205458618-b3d640bc-a72d-437f-a9a0-8da89a7361f3.png)
