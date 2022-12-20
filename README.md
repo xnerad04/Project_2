@@ -52,7 +52,7 @@ PROJECT_2
 ---------------------------------------------------------------
 
 ## Video
-
+![Simulation in SimulIde](https://github.com/xnerad04/Project_2/blob/main/Simulation.gif)
 
 ## References
 1. https://www.electronics-lab.com/project/using-sg90-servo-motor-arduino/
