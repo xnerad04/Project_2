@@ -34,6 +34,10 @@ Our application consists of two servo motors and joy-stick. Joy-stick determines
 ## Software description
 As described above, application controls two servo motors by pushing joy-stick to the left, right, or pushing the joy-stick button. By pushing the button, you can change, which servo is controlled. Then by pushing in the direction of x-axis to the left or right, you control, if servo is rotating clockwise or counter-clockwise. 
 
+### Flowcharts
+![TIMER0_OVF_vect](https://github.com/xnerad04/Project_2/blob/main/Flowchart%20TIMER0_OVF_vect.JPG)
+
+![ADC_vect](https://github.com/xnerad04/Project_2/blob/main/Flowchart%20ADC_vect.JPG)
 
 ### Project Structure
 ---------------------------------------------------------------
