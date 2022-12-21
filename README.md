@@ -39,20 +39,20 @@ As described above, application controls two servo motors by pushing joy-stick t
 ---------------------------------------------------------------
 PROJECT_2       
 - include        
-  - [timer.h](...)
+  - [timer.h](https://github.com/xnerad04/Project_2/blob/main/project-02/include/timer.h)
 
 - lib             
   - gpio
-    - [gpio.c](...)
-    - [gpio.h](...)
+    - [gpio.c](https://github.com/xnerad04/Project_2/blob/main/project-02/lib/gpio/gpio.c)
+    - [gpio.h](https://github.com/xnerad04/Project_2/blob/main/project-02/lib/gpio/gpio.h)
 
 - src           
-  - [main.c](...)
+  - [main.c](https://github.com/xnerad04/Project_2/blob/main/project-02/src/main.c)
 - README.md       
 ---------------------------------------------------------------
 
-## Video
-
+## Simulation
+![Simulation in SimulIde](https://github.com/xnerad04/Project_2/blob/main/Simulation.gif)
 
 ## References
 1. https://www.electronics-lab.com/project/using-sg90-servo-motor-arduino/
